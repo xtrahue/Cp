@@ -1,0 +1,1 @@
+{"name":"Local: string_binary_chef","url":"c:\\Users\\monda\\Desktop\\Code\\string_binary_chef.cpp","tests":[{"id":1630680234322,"input":"3\n2 1 2\n00\n2 1 1\n01\n4 2 1\n1101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\string_binary_chef.cpp","group":"local","local":true}

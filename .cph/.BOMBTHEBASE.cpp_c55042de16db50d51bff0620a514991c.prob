@@ -1,0 +1,1 @@
+{"name":"Local: BOMBTHEBASE","url":"c:\\Users\\monda\\Desktop\\Code\\BOMBTHEBASE.cpp","tests":[{"id":1646838785791,"input":"2\n8 6\n4 1 6 1 6 5 6 8\n2 1\n3 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\BOMBTHEBASE.cpp","group":"local","local":true}

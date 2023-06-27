@@ -1,0 +1,1 @@
+{"name":"Local: SUBTASK","url":"c:\\Users\\monda\\Desktop\\Code\\SUBTASK.cpp","tests":[{"id":1634051885388,"input":"4\n4 2 50\n1 0 1 1\n3 2 50\n1 1 0\n4 2 50\n1 1 1 1\n5 3 30\n1 1 0 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\SUBTASK.cpp","group":"local","local":true}

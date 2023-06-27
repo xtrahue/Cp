@@ -1,0 +1,1 @@
+{"name":"Local: ANDSUBAR","url":"c:\\Users\\monda\\Desktop\\Code\\ANDSUBAR.cpp","tests":[{"id":1633173274263,"input":"5\n1000000000\n2\n3\n4\n7","output":"1\n1\n2\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\ANDSUBAR.cpp","group":"local","local":true}

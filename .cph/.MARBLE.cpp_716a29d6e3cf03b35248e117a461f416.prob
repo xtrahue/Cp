@@ -1,0 +1,1 @@
+{"name":"Local: MARBLE","url":"c:\\Users\\monda\\Desktop\\Code\\MARBLE.cpp","tests":[{"id":1640355032009,"input":"3\n5\nab?c?\naeg?k\n6\nabcde?\nehio??\n4\nabcd\nabcd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\MARBLE.cpp","group":"local","local":true}

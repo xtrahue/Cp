@@ -1,0 +1,1 @@
+{"name":"Local: DIGITREM","url":"c:\\Users\\monda\\Desktop\\Code\\DIGITREM.cpp","tests":[{"id":1633878095684,"input":"5\n21 5\n9811868 8\n10000999 0\n5925 9\n434356 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\DIGITREM.cpp","group":"local","local":true}

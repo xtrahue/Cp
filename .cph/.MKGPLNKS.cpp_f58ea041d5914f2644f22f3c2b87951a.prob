@@ -1,0 +1,1 @@
+{"name":"Local: MKGPLNKS","url":"c:\\Users\\monda\\Desktop\\Code\\MKGPLNKS.cpp","tests":[{"id":1637949903711,"input":"4\n6\nBBWWWB\n5\nWWBWB\n2\nBB\n9\nWWBBBBBWW","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\MKGPLNKS.cpp","group":"local","local":true}

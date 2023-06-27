@@ -1,0 +1,1 @@
+{"name":"Local: DIRECTN","url":"c:\\Users\\monda\\Desktop\\Code\\DIRECTN.cpp","tests":[{"id":1634745377004,"input":"3\n12\nLRLRRRLRLLLL\n2\nLR\n4\nLRRL\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\DIRECTN.cpp","group":"local","local":true}

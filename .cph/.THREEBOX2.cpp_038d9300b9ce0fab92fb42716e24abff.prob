@@ -1,0 +1,1 @@
+{"name":"Local: THREEBOX2","url":"c:\\Users\\monda\\Desktop\\Code\\THREEBOX2.cpp","tests":[{"id":1633171073143,"input":"3\n2 3 5 10\n1 1 1 2\n3 3 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\THREEBOX2.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: AIRLINE_chef","url":"c:\\Users\\monda\\Desktop\\Code\\AIRLINE_chef.cpp","tests":[{"id":1630672874780,"input":"3\n1 1 1 15 5\n8 7 6 15 5\n8 5 7 15 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\AIRLINE_chef.cpp","group":"local","local":true}

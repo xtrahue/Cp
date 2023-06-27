@@ -1,0 +1,1 @@
+{"name":"Local: HOSTELROOM","url":"c:\\Users\\monda\\Desktop\\Code\\HOSTELROOM.cpp","tests":[{"id":1645027296330,"input":"3\n5 8\n0 3 3 -13 5\n4 5\n0 -2 2 3\n3 5\n-2 5 -2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\HOSTELROOM.cpp","group":"local","local":true}

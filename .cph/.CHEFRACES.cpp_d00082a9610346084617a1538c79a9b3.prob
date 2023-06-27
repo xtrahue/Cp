@@ -1,0 +1,1 @@
+{"name":"Local: CHEFRACES","url":"c:\\Users\\monda\\Desktop\\Code\\CHEFRACES.cpp","tests":[{"id":1648391176535,"input":"3\n4 3 1 2\n4 2 1 2\n2 1 1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\CHEFRACES.cpp","group":"local","local":true}

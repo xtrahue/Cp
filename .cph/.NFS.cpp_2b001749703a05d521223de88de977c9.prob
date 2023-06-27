@@ -1,0 +1,1 @@
+{"name":"Local: NFS","url":"c:\\Users\\monda\\Desktop\\Code\\NFS.cpp","tests":[{"id":1643737822147,"input":"3\n1 1 1 1\n2 1 1 1\n2 2 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\NFS.cpp","group":"local","local":true}

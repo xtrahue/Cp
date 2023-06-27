@@ -1,0 +1,1 @@
+{"name":"Local: PRODUCT","url":"c:\\Users\\monda\\Desktop\\Code\\PRODUCT.cpp","tests":[{"id":1645630222400,"input":"2\n8 4\n8 1000000000\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\PRODUCT.cpp","group":"local","local":true}

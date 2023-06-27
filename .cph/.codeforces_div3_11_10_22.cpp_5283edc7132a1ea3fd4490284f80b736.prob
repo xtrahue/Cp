@@ -1,0 +1,1 @@
+{"name":"Local: codeforces_div3_11_10_22","url":"c:\\Users\\monda\\Desktop\\Code\\codeforces_div3_11_10_22.cpp","tests":[{"id":1665501265114,"input":"3\n3 3\n4 2\n5 4","output":"3 2 1 \n2 4 3 1 \n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\codeforces_div3_11_10_22.cpp","group":"local","local":true}

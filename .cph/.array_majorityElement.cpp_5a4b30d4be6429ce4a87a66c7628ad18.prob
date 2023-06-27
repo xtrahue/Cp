@@ -1,0 +1,1 @@
+{"name":"Local: array_majorityElement","url":"c:\\Users\\monda\\Desktop\\Code\\array_majorityElement.cpp","tests":[{"id":1626777309090,"input":"5\n5 1 2 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\array_majorityElement.cpp","group":"local","local":true}

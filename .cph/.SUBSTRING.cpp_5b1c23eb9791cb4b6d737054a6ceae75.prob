@@ -1,0 +1,1 @@
+{"name":"Local: SUBSTRING","url":"c:\\Users\\monda\\Desktop\\Code\\SUBSTRING.cpp","tests":[{"id":1647167422895,"input":"3\naabcde\naaa\naaefghuihvccfdev","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\SUBSTRING.cpp","group":"local","local":true}

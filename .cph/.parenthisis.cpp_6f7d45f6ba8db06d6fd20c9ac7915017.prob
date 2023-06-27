@@ -1,0 +1,1 @@
+{"name":"Local: parenthisis","url":"c:\\Users\\monda\\Desktop\\Code\\parenthisis.cpp","tests":[{"id":1636035722371,"input":"{(})","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\parenthisis.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: VDATES","url":"c:\\Users\\monda\\Desktop\\Code\\VDATES.cpp","tests":[{"id":1632576745804,"input":"4\n10 8 12 \n14 2 10\n4444 5555 6666 \n8 8 12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\VDATES.cpp","group":"local","local":true}

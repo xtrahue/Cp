@@ -1,0 +1,1 @@
+{"name":"Local: MEXOR","url":"c:\\Users\\monda\\Desktop\\Code\\MEXOR.cpp","tests":[{"id":1633891729754,"input":"4\n0\n1\n2\n8","output":"1\n2\n2\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\MEXOR.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: GOODWEAT","url":"c:\\Users\\monda\\Desktop\\Code\\GOODWEAT.cpp","tests":[{"id":1632321489191,"input":"4\n1 0 1 0 1 1 1\n0 1 0 0 0 0 1\n1 1 1 1 1 1 1\n0 0 0 1 0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\GOODWEAT.cpp","group":"local","local":true}

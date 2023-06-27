@@ -1,0 +1,1 @@
+{"name":"Local: ANDEQOR","url":"c:\\Users\\monda\\Desktop\\Code\\ANDEQOR.cpp","tests":[{"id":1645636117514,"input":"3\n2\n01\n4\n1001\n8\n00010001\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\ANDEQOR.cpp","group":"local","local":true}

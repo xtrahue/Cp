@@ -1,0 +1,1 @@
+{"name":"Local: ARRAYRET","url":"c:\\Users\\monda\\Desktop\\Code\\ARRAYRET.cpp","tests":[{"id":1656518632305,"input":"4\n1\n6\n3\n7 10 13\n4\n13 13 13 13\n2\n3 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\monda\\Desktop\\Code\\ARRAYRET.cpp","group":"local","local":true}
